@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Home() {
+function BuyCredit() {
   return (
     <div>
-      Home
+      Buy
     </div>
   )
 }
 
-export default Home
+export default BuyCredit
