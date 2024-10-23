@@ -7,6 +7,7 @@ function Layout() {
   return (
     <div className='main-h-screen bg-slate-50'>
         <Navbar/>
+    
      
       <Outlet/>
     </div>
